@@ -1,0 +1,30 @@
+{
+  "checkpoints": [
+    "https://civitai.com/api/download/models/2167369?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=3f5244526f3dc5e46112cf0bf67a8857"
+  ],
+  "vae": [
+    "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
+  ],
+  "unet": [
+  ],
+  "diffusion_models": [
+  ],
+  "text_encoders": [
+  ],
+  "loras": [
+  ],
+  "upscale_models": [
+    "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth",
+    "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.2.4/RealESRGAN_x4plus_anime_6B.pth"
+  ],
+  "controlnet": [
+    "https://huggingface.co/xinsir/controlnet-union-sdxl-1.0/resolve/main/diffusion_pytorch_model_promax.safetensors"
+  ],
+  "clip_vision": [
+  ],
+  "ipadapter": [
+  ],
+  "style_models": [
+  ],
+  "clip": []
+} 
